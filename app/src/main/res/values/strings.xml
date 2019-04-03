@@ -1,0 +1,33 @@
+<resources>
+	<string name="app_name">Swiper</string>
+	<string name="action_settings">Settings</string>
+	<string name="action_author">Author</string>
+
+	<string name="hello_blank_fragment">Hello blank fragment</string>
+	<string name="title_activity_tabbed_acitvity">TabbedAcitvity</string>
+	<string name="tab_text_1">Tab 1</string>
+	<string name="tab_text_2">Tab 2</string>
+	<string name="tab_text_3">Tab 3</string>
+	<string name="section_format">Hello World from section: %1$d</string>
+	<string name="fragment_one">Fragment ONE</string>
+	<string name="image_from_api">Image from api</string>
+	<string name="sesja">"Sesja Linuksowa to największa w Polsce konferencja poświęcona rozwiązaniom Open Source oraz najnowszym trendom w systemach z rodziny GNU/Linux."</string>
+	<string name="timeAndPlace">
+		Sesja odbywa się 6 i 7 kwietnia w budynku D-20 Politechniki Wrocławskiej
+		Centrum Kongresowe znajduje się na terenie kampusu Politechniki Wrocławskiej, przy ulicy Janiszewskiego 8.
+	</string>
+	<string name="wyj_cie">Wyjście</string>
+	<string name="sesja_linuksowa">Sesja Linuksowa</string>
+	<string name="chc_wiedzie_wi_cej">Chcę wiedzieć więcej!</string>
+	<string name="najwi_ksza_konferencja_po_wi_cona_rozwi_zaniom_open_source_i_linux_na_wyci_gni_cie_r_ki">Największa
+		konferencja poświęcona rozwiązaniom Open Source i Linux na wyciągnięcie ręki!
+	</string>
+	<string name="bio">Second year student at Wrocław University of Science and Technology on Faculty of Computer
+		Science and Management. For a few months I’m also the second vice-chairman of Akademickie Stowarzyszenie
+		Informatyczne and start my position as Linux Academy Coordinator. I’m a JVM fan and often WrocJUG guest who
+		would like to start his way in IT industry as Java intern.
+	</string>
+	<string name="ok">Ok</string>
+	<string name="cancel">Cofnij</string>
+	<string name="open_in_browser">Otworzyć stronę sesji w przeglądarce?</string>
+</resources>
