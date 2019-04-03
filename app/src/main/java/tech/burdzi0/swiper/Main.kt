@@ -10,6 +10,7 @@ import com.squareup.picasso.Picasso
 class Main : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
+        setTheme(R.style.NoActionBar)
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main2)
 

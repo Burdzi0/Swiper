@@ -55,7 +55,7 @@ class PagerActivity : AppCompatActivity() {
     }
 
     override fun onOptionsItemSelected(item: MenuItem) = when (item.itemId) {
-        R.id.action_settings -> {
+        R.id.browser -> {
             val dialog = OpenInWebBrowserDialog()
             dialog.show(supportFragmentManager, "OpenInBrowserDialog")
             true
