@@ -6,6 +6,7 @@ import android.support.v7.app.AppCompatActivity
 import android.widget.Button
 import android.widget.ImageView
 import com.squareup.picasso.Picasso
+import kotlinx.android.synthetic.main.activity_main2.*
 
 class Main : AppCompatActivity() {
 
@@ -26,11 +27,11 @@ class Main : AppCompatActivity() {
             .load("https://sesja.linuksowa.pl/img/logo-duze-pl.png")
             .into(imageView)
 
-        findViewById<Button>(R.id.more).setOnClickListener{
+        more.setOnClickListener{
             val intent = Intent(this, PagerActivity::class.java)
             startActivity(intent)
         }
-        findViewById<Button>(R.id.exit).setOnClickListener{
+        exit.setOnClickListener{
             this.finishAffinity()
         }
 
